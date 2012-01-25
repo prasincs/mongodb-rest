@@ -1,9 +1,7 @@
 {
 	"db": {
-		"port": 27101,
-		"host": "flame.mongohq.com",
-		"username":"admin",
-		"password":"4dm1n"
+		"port": 27017,
+		"host": "localhost"
 	},
 	"server": {
 		"port": 3000,
